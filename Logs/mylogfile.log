@@ -1,0 +1,13 @@
+2021-08-11 19:50:32 INFO  Login:169 - User ID:001
+2021-08-11 20:01:38 INFO  Login:169 - User ID:001
+2021-08-11 20:03:04 INFO  Login:169 - User ID:001
+2021-08-11 20:17:50 INFO  Login:169 - User ID:001
+2021-08-11 20:22:57 INFO  Login:156 - User ID:19EE059
+2021-08-11 20:33:23 ERROR Login:215 - User ID: 19EE059 Incorrect UserID or Password
+2021-08-11 20:33:44 INFO  Login:195 - User ID: 001
+2021-08-11 20:33:56 DEBUG Login:202 - User ID: 001 Incorrect Password
+2021-08-11 20:37:01 INFO  UserLogin:182 - User ID: 19EE059
+2021-08-11 20:37:22 DEBUG UserLogin:189 - User ID: 19EE019 Incorrect Password
+2021-08-11 20:37:37 INFO  UserLogin:173 - User ID: 19EE009 First Time User
+2021-08-11 20:39:07 ERROR UserLogin:201 - User ID: 19EE008 Incorrect UserID or Password
+2021-08-13 10:49:54 DEBUG UserLogin:190 - User ID: 19EE019 Incorrect Password
